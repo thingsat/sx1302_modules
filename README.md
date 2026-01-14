@@ -1,4 +1,16 @@
-# SX1302 / SX1303 Gateway Modules for [Thingsat @ INISAT 📡 🚀](../Thingsat_INISAT)
+# SX1302 / SX1303 Gateway Modules for LoRa gateways prototyping
+
+## Hats and breadboards for SX1302 / SX1303 Gateway Modules
+
+* [Thingsat @ INISAT 📡 🚀](https://github.com/csu-grenoble/flatsat/tree/main/Hardware/Thingsat_INISAT)
+* [SEED Thingsat ProtoSEEDi 📡 🚀](https://gricad-gitlab.univ-grenoble-alpes.fr/thingsat/seed/-/tree/main/seed_thingsat_protoseed?ref_type=heads)
+* [MiniPCIe adapter](https://gricad-gitlab.univ-grenoble-alpes.fr/thingsat/seed/-/tree/main/minipcie_adapter?ref_type=heads)  
+* [AK2287/RAK5146 Pi HAT](https://store.rakwireless.com/products/rak2287-pi-hat) SKU:610003
+
+## Software distributions
+
+* [Chirpstack Gateway OS](https://www.chirpstack.io/docs/chirpstack-gateway-os/index.html)
+* [WalT images for RPI](https://hub.docker.com/r/waltplatform/rpi32-chirpstack)
 
 ## RAK5146 Gateway Concentrator Module for LoRaWAN SPI
 
