@@ -5,7 +5,8 @@
 * [Thingsat @ INISAT 📡 🚀](https://github.com/csu-grenoble/flatsat/tree/main/Hardware/Thingsat_INISAT)
 * [SEED Thingsat ProtoSEEDi 📡 🚀](https://gricad-gitlab.univ-grenoble-alpes.fr/thingsat/seed/-/tree/main/seed_thingsat_protoseed?ref_type=heads)
 * [MiniPCIe adapter](https://gricad-gitlab.univ-grenoble-alpes.fr/thingsat/seed/-/tree/main/minipcie_adapter?ref_type=heads)  
-* [AK2287/RAK5146 Pi HAT](https://store.rakwireless.com/products/rak2287-pi-hat) SKU:610003
+* [RAK2287/RAK5146 Pi HAT](https://store.rakwireless.com/products/rak2287-pi-hat) SKU:610003
+* [WM1302 Raspberry Pi Hat](https://www.seeedstudio.com/WM1302-Pi-Hat-p-4897.html) SKU 113100022   
 
 ## Software distributions
 
